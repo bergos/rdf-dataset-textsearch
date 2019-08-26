@@ -1,6 +1,6 @@
 {
   "name": "rdf-dataset-textsearch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "RDFJS DatasetCore with text search support",
   "main": "index.js",
   "scripts": {
